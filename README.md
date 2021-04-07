@@ -3,4 +3,5 @@
 ![image](https://user-images.githubusercontent.com/46979543/113808229-31cf7700-972b-11eb-98d8-d650bd42b60a.png)
 *************************************
 # Ejemplo de otro proyecto más avanzado:
-![image](https://user-images.githubusercontent.com/46979543/113807895-86bebd80-972a-11eb-9df9-972ab1727b63.png)
+![image](https://user-images.githubusercontent.com/46979543/113808741-452f1200-972c-11eb-866f-38355b4635c9.png)
+
